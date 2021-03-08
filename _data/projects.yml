@@ -1,16 +1,40 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# project of Sangmyung University
+- project: 입속 멜로
+  role: 메인 기획
+  duration: 2019.9 &mdash; 2019.11
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Java를 이용한 플랫포머형 런게임 '입속 멜로' 기획
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: 소녀의 집
+  role: 메인 기획, 스토리 기획
+  duration: 2020.3 &mdash; 2019.6
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Java를 이용한 공포, 쯔꾸르형 게임인 '소녀의 집' 시스템 기획 및 스토리 구상.
+  
+- project: Si-bel
+  role: 메인 기획, 스토리 기획, 레벨디자인, PM
+  duration: 2020.9 &mdash; 2020.11
+  # url: "#"
+  description: Unity 엔진을 사용한 플랫포머, 퍼즐 게임 'Si-bel' 시스템 기획 및 레벨디자인, 밸런스 기획, PM의 역할 수행
+ 
+  # project of Game Jam
+- project: 부산 인디 게임잼
+  role: 메인 기획, 스토리 기획, 레벨디자인
+  duration: 2020.8.18 &mdash; 2020.08.21
+  # url: "#"
+  description: Unity 엔진을 사용한 연애 시뮬레이션 형 게임 '이 팀 괜찮을까?' 시스템 기획, 레벨디자인, 스토리 기획, 밸런스 기획
+  
+  - project: 경상북도 게임잼
+  role: 메인 기획, UI기획
+  duration: 2020.9.7 &mdash; 2020.9.11
+  # url: "#"
+  description: Unity 엔진을 사용한 횡스크롤게임 'Life climbing' 기획
+  
+  - project: 스마일게이트 챌린지
+  role: 메인 기획, 스토리 기획, 레벨디자인, 밸런싱, PM
+  duration: 2020.10.24 &mdash; 2021.1.12
+  # url: "#"
+  description: Unity 엔진을 사용. 아이스하키형 게임 '소환되기 싫어' 시스템기획, 레벨디자인, 스토리 기획, 밸런스 기획 및 구글 play 출시
